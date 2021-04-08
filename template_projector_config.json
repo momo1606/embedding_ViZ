@@ -1,21 +1,14 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "CovBERT",
       "tensorShape": [
-        1000,
-        50
+        944,
+        75
       ],
-      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/.../optional.metadata.tsv",
-      "sprite": {
-        "imagePath": "https://github.com/.../optional.sprite.png",
-        "singleImageDim": [
-          32,
-          32
-        ]
-      },
-      "bookmarksPath": "https://raw.githubusercontent.com/.../bookmarks.txt"
+      "tensorPath": "https://drive.google.com/file/d/1bV92PQWuW1a90XAYT09lg3ouaEdDenoQ/view?usp=sharing",
+      "metadataPath": "https://drive.google.com/file/d/1bvTQuDlBOw3KWTSJ4v7AnmnruF_WBxdP/view?usp=sharing"
+     
     }
   ]
 }
